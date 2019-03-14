@@ -1,3 +1,3 @@
 # quora-insincere-questions-classification
 kaggle competition
-pytorch
+pytorch(CNN)
