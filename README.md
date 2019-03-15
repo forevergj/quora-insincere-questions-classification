@@ -1,3 +1,12 @@
 # quora-insincere-questions-classification
 kaggle competition
-pytorch(CNN)
+
+
+
+structure
+embeding
+    | 
+four independent cnn
+    |
+flatten
+pytorch(CNN-glove)
